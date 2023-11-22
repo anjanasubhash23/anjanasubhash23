@@ -1,8 +1,9 @@
 ### Hi there 👋
-  
-- 🌱 Pursued Bachelor's in Computer Engineering
-- 📖 Interests: .NET, C# , Angular, Node Js. 
-- 🔭 Currently exploring ML/AI concepts 
+
+- 👩‍💻 Software Engineer at GEP.  
+- 💻 Pursued Bachelor's in Computer Engineering
+- ⌨️ Interests: .NET, C# , Angular, Node Js. 
+- 🔭 Currently exploring ML/AI concepts. 
 
 
 
