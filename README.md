@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👩‍💻 Software Engineer at GEP.  
+- 👩‍💻 Data Scientist.  
 - 💻 Pursued Bachelor's in Computer Engineering
-- ⌨️ Interests: .NET, C# , Angular, Node Js. 
+- ⌨️ Interests: Gen AI , Deep learning. 
 - 🔭 Currently exploring ML/AI concepts. 
 
 
