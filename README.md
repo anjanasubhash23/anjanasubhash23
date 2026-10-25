@@ -49,17 +49,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anjanasubhash23&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanasubhash23&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjanasubhash23&theme=react&hide_border=true" />
-</p>
 
 ---
 
-<p align="center"><i>Always happy to talk about agents, voice AI, RAG, or the Indian markets. Reach out on LinkedIn!</i></p>
+<p align="center"><i>Always happy to talk about agents, voice AI or RAG. Reach out on LinkedIn!</i></p>
