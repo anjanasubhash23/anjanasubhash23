@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjana 👋</h1>
-<h3 align="center">AI Data Scientist building production-grade agentic AI for Indian financial services</h3>
+<h3 align="center">AI Data Scientist building production-grade agentic AI applications</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anjana-subhash-b617aa213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
